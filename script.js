@@ -9,7 +9,6 @@ const score = document.querySelector(".value")
 const number = prompt('Digite a nota do aluno:')
 
 score.textContent = number
-console.log(number)
     
 /* Logic */
 let situation = document.querySelector(".situation")
